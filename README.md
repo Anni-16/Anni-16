@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar Maurya</h1>
 
 <h3 align="center">A passionate front-end and Back-end developerwith a strong knowledge of HTML, CSS, JavaScript, SQL, PHP, Boostrap, jquery,SEO,SMO from India</h3>
-img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupendermehra&label=Profile%20views&color=0e75b6&style=flat" alt="bhupendermehra" /> </p>
+<img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anni-16&label=Profile%20views&color=0e75b6&style=flat" alt="anni-16" /> </p>
 
