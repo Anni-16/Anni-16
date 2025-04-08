@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ****MERN STACK DEVELOPER****
 
-- 📫 How to reach me **aniketkumar2574@gmail.com**
+- 📫 How to reach me **aniketkumar4752@gmail.com**
 
 - ⚡ Fun fact ****I'm a globetrotter at heart😉****
 
