@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aniket Kumar Maurya</h1>
 
-<h3 align="center">A passionate front-end and Back-end developerwith a strong knowledge of HTML, CSS, JavaScript, SQL, PHP,laravel framework (PHP),Boostrap, jquery,SEO,SMO from India</h3>
+<h3 align="center">A passionate front-end and Back-end developerwith a strong knowledge of HTML, CSS, JavaScript, SQL, PHP,laravel framework (PHP),Boostrap, jquery,SEO,SMO 💡 from New Delhi</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
@@ -9,7 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anni-16" alt="anni-16" /></a> </p>
 
-- 🌱 I’m currently learning ****MERN STACK DEVELOPER****
+-🏢 I'm currently Working on **Full-stack Hotel Managments System Web Application**
+
+- 🌱 I’m currently learning ****Laravel Framework ( PHP )****
+
+- 🌨 Ask me about PHP, front-end
 
 - 📫 How to reach me **aniketkumar4752@gmail.com**
 
